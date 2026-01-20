@@ -1,0 +1,13 @@
+runner_info =  ("chris",540,54)
+mile_splits = [8.5,8.2,8.4]
+
+mile_splits.append(8.3)
+print(mile_splits)  
+print(runner_info[0], sum(mile_splits))
+total_time = 0
+total_miles = 0
+for split in mile_splits:
+    total_miles += 1
+    total_time += split
+    print(split)
+print("total time:",total_time,"total miles:",total_miles)
