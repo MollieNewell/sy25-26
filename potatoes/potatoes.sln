@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "potatoes", "potatoes\potatoes.pyproj", "{3F41DA37-3526-4EEF-A5F2-75416E11AF6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F41DA37-3526-4EEF-A5F2-75416E11AF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F41DA37-3526-4EEF-A5F2-75416E11AF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A05A7A02-B78B-4153-B7AC-71DBE48C82BC}
+	EndGlobalSection
+EndGlobal
